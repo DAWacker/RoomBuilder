@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Generator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Door.cs" Line="45" Column="3" />
+      <File FileName="Assets/Scripts/Minimap.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/Room.cs" Line="148" Column="39" />
+      <File FileName="Assets/Scripts/Player.cs" Line="14" Column="37" />
+      <File FileName="Assets/Scripts/Key.cs" Line="6" Column="23" />
+      <File FileName="Assets/Scripts/Generator.cs" Line="89" Column="67" />
+      <File FileName="Assets/Scripts/Walker.cs" Line="13" Column="3" />
+      <File FileName="Assets/Scripts/HUD.cs" Line="48" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/davidwilson/Documents/RoomBuilder/obj/Debug/Assembly-CSharp.dll
+/Users/davidwilson/Documents/RoomBuilder/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/UnityEngine.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/UnityEditor.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Mono.Cecil.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Unity.DataContract.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/davidwilson/Documents/RoomBuilder/Temp/bin/Debug/Mono.Cecil.Mdb.dll
